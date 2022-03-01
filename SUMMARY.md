@@ -13,22 +13,29 @@
 ## Backend / Infrastructure
 
 * [npm](backend-infrastructure/npm.md)
-* [Postman](backend-infrastructure/postman.md)
 * [AWS Serverless Computing](backend-infrastructure/aws-serverless-computing.md)
-* [Database Design](backend-infrastructure/database-design.md)
+* [Databases](backend-infrastructure/database-design/README.md)
+  * [PostgreSQL](backend-infrastructure/database-design/postgresql.md)
+  * [Object Relational Mapper (ORM)](backend-infrastructure/database-design/object-relational-mapper-orm.md)
 * [Message Broker/ Queue (RabbitMQ)](backend-infrastructure/message-broker-queue-rabbitmq.md)
-* [GraphQL / Apollo](backend-infrastructure/graphql-apollo.md)
-* [PostgreSQL](backend-infrastructure/postgresql.md)
-* [Docker / Containers](backend-infrastructure/docker.md)
 * [TCP/IP](backend-infrastructure/tcp-ip.md)
-* [Redis](backend-infrastructure/redis.md)
-* [Go](backend-infrastructure/go.md)
-* [HTTP](backend-infrastructure/http.md)
+* [Web Servers](backend-infrastructure/web-servers/README.md)
+  * [Go](backend-infrastructure/web-servers/go.md)
+  * [HTTP](backend-infrastructure/web-servers/http/README.md)
+    * [Request / Response](backend-infrastructure/web-servers/http/request-response/README.md)
+      * [REST API](backend-infrastructure/web-servers/http/request-response/rest-api.md)
+      * [GraphQL / Apollo](backend-infrastructure/web-servers/http/request-response/graphql-apollo.md)
+    * [Postman](backend-infrastructure/web-servers/http/postman.md)
+* [Docker / Containers](backend-infrastructure/docker.md)
+* [Caches](backend-infrastructure/caches/README.md)
+  * [Redis](backend-infrastructure/caches/redis.md)
 
 ## Technical Books
 
 * [Designing Data-Intensive Systems](technical-books/designing-data-intensive-systems.md)
 * [30 Days of React](technical-books/30-days-of-react.md)
+* [Effective C++](technical-books/effective-c++.md)
+* [The Art of Game Design: A Book of Lenses](technical-books/the-art-of-game-design-a-book-of-lenses.md)
 
 ## Data Structures / Algorithms
 
