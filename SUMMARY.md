@@ -4,7 +4,7 @@
 
 ## General Career Advice
 
-* [Software Engineering at Google](README.md)
+* [Software Engineering at Google](<README (1).md>)
 * [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
 
 ## Front-end / UI / UX
