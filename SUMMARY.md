@@ -20,7 +20,3 @@
 * [GraphQL / Apollo](backend-infrastructure/graphql-apollo.md)
 * [PostgreSQL](backend-infrastructure/postgresql.md)
 * [Docker](backend-infrastructure/docker.md)
-
-***
-
-* [Page 1](page-1.md)
