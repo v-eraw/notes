@@ -4,7 +4,7 @@
 
 ## General Career Advice
 
-* [Software Engineering at Google](<README (1).md>)
+* [Software Engineering](<README (1).md>)
 * [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
 
 ## Front-end / UI / UX
@@ -14,7 +14,8 @@
 
 ## Backend / Infrastructure
 
-* [npm](backend-infrastructure/npm.md)
+* [npm](backend-infrastructure/npm/README.md)
+  * [how to fix npm vulnerabilities](backend-infrastructure/npm/how-to-fix-npm-vulnerabilities.md)
 * [AWS Serverless Computing](backend-infrastructure/aws-serverless-computing.md)
 * [Databases](backend-infrastructure/database-design.md)
   * [PostgreSQL](backend-infrastructure/postgresql.md)
@@ -47,3 +48,7 @@
 ## Courses
 
 * [iOS App Dev](courses/ios-app-dev.md)
+
+## Books
+
+* [Rising](books/rising.md)
