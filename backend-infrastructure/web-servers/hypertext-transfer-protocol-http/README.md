@@ -1,10 +1,8 @@
-# HTTP
+# HyperText Transfer Protocol (HTTP)
 
-### [Web servers and HTTP (a primer)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First\_steps/Client-Server\_overview#web\_servers\_and\_http\_a\_primer) <a href="#web_servers_and_http_a_primer" id="web_servers_and_http_a_primer"></a>
+### Web browsers communicate with servers using HTTP requests. <a href="#web_servers_and_http_a_primer" id="web_servers_and_http_a_primer"></a>
 
-Web browsers communicate with [web servers](https://developer.mozilla.org/en-US/docs/Learn/Common\_questions/What\_is\_a\_web\_server) using the **H**yper**T**ext **T**ransfer **P**rotocol ([HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)). When you click a link on a web page, submit a form, or run a search, the browser sends an _HTTP Request_ to the server.
-
-This request includes:
+These requests include:
 
 * A URL identifying the target server and resource (e.g. an HTML file, a particular data point on the server, or a tool to run).
 * A method that defines the required action (for example, to get a file or to save or update some data). The different methods/verbs and their associated actions are listed below:
