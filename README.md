@@ -1,3 +1,3 @@
 # Welcome
 
-Here's my personal notes on stuff I've been learning, hopefully they're helpful.
+Thank you Gitbook for making my notes look wayyy cleaner than they have any right to be.
