@@ -2,13 +2,13 @@
 
 {% tabs %}
 {% tab title="Relational" %}
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 * MySQL
 {% endtab %}
 
 {% tab title="Document Store" %}
-![](<../../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 *
 {% endtab %}

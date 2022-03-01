@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## General Career Advice
 
-* [Software Engineering at Google](README.md)
+* [Software Engineering at Google](<README (1).md>)
 * [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
 
 ## Front-end / UI / UX
@@ -14,21 +16,21 @@
 
 * [npm](backend-infrastructure/npm.md)
 * [AWS Serverless Computing](backend-infrastructure/aws-serverless-computing.md)
-* [Databases](backend-infrastructure/database-design/README.md)
-  * [PostgreSQL](backend-infrastructure/database-design/postgresql.md)
+* [Databases](backend-infrastructure/database-design.md)
+  * [PostgreSQL](backend-infrastructure/postgresql.md)
   * [Object Relational Mapper (ORM)](backend-infrastructure/database-design/object-relational-mapper-orm.md)
 * [Message Broker/ Queue (RabbitMQ)](backend-infrastructure/message-broker-queue-rabbitmq.md)
 * [TCP/IP](backend-infrastructure/tcp-ip.md)
 * [Web Servers](backend-infrastructure/web-servers/README.md)
-  * [Go](backend-infrastructure/web-servers/go.md)
-  * [HTTP](backend-infrastructure/web-servers/http/README.md)
+  * [Go](backend-infrastructure/go.md)
+  * [HTTP](backend-infrastructure/http.md)
     * [Request / Response](backend-infrastructure/web-servers/http/request-response/README.md)
       * [REST API](backend-infrastructure/web-servers/http/request-response/rest-api.md)
-      * [GraphQL / Apollo](backend-infrastructure/web-servers/http/request-response/graphql-apollo.md)
-    * [Postman](backend-infrastructure/web-servers/http/postman.md)
+      * [GraphQL / Apollo](backend-infrastructure/graphql-apollo.md)
+    * [Postman](backend-infrastructure/postman.md)
 * [Docker / Containers](backend-infrastructure/docker.md)
 * [Caches](backend-infrastructure/caches/README.md)
-  * [Redis](backend-infrastructure/caches/redis.md)
+  * [Redis](backend-infrastructure/redis.md)
 
 ## Technical Books
 
