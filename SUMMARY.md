@@ -14,12 +14,13 @@
 
 ## Backend / Infrastructure
 
+* [Elasticsearch](backend-infrastructure/elasticsearch.md)
 * [npm](backend-infrastructure/npm/README.md)
   * [how to fix npm vulnerabilities](backend-infrastructure/npm/how-to-fix-npm-vulnerabilities.md)
 * [AWS Serverless Computing](backend-infrastructure/aws-serverless-computing.md)
 * [Databases](backend-infrastructure/database-design.md)
-  * [PostgreSQL](backend-infrastructure/postgresql.md)
   * [Object Relational Mapper (ORM)](backend-infrastructure/database-design/object-relational-mapper-orm.md)
+  * [Database Migration](backend-infrastructure/database-design/database-migration.md)
 * [Message Broker/ Queue (RabbitMQ)](backend-infrastructure/message-broker-queue-rabbitmq.md)
 * [TCP/IP](backend-infrastructure/tcp-ip.md)
 * [Web Servers](backend-infrastructure/web-servers/README.md)

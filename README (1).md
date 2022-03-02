@@ -1,10 +1,10 @@
 # Software Engineering @Google
 
-1. write test
-2. run test (frequently)
-3. react to failure (quickly)
+1. Write test
+2. Run test (frequently)
+3. React to failure (quickly)
 
-If code is too difficult to test it could be because it has too many responsibilities or difficult-to-manage dependencies.
+If part of the code is too difficult to test, it could be because there's too many responsibilities or difficult-to-manage dependencies.
 
-Continuous Integration (CI)
+Continuous Integration (CI) - DevOps best practice where code check ins are automatically built/tested before being deployed. Requires that tests are written for every new code snippet added.
 
