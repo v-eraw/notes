@@ -1,3 +1,3 @@
 # Welcome
 
-Thank you Gitbook for making my notes HELLA clean.
+Thank you gitbook for making my notes look incredibly clean.
