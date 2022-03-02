@@ -5,14 +5,30 @@
 ![](../.gitbook/assets/image.png)
 
 * MySQL
+* PostgreSQL
+* MariaDB
+* Oracle DB
+* SQL Server (Microsoft)
+* SQLite
+* Amazon RDS
+
+SQL (**S**tructured **Q**uery **L**anguage) is a programming language used to communicate with data stored in a relational database management system. SQL syntax is similar to the English language, which makes it relatively easy to write, read, and interpret.
 {% endtab %}
 
 {% tab title="Document Store" %}
 ![](<../.gitbook/assets/image (1).png>)
 
-*
+* Amazon DynamoDB
+* MongoDB
+* Couchbase
+* Google Cloud Firestore
+* Redis
+
+**The term document in NoSQL databases refers to a set of key-value pairs, typically represented in JSON, XML, or a binary form of JSON**.
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
