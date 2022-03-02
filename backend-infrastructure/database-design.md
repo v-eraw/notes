@@ -24,7 +24,7 @@ SQL (**S**tructured **Q**uery **L**anguage) is a programming language used to co
 * Google Cloud Firestore
 * Redis
 
-**The term document in NoSQL databases refers to a set of key-value pairs, typically represented in JSON, XML, or a binary form of JSON**.
+The term document in NoSQL databases refers to a set of key-value pairs, typically represented in JSON, XML, or a binary form of JSON.
 {% endtab %}
 {% endtabs %}
 
