@@ -1,3 +1,3 @@
 # Welcome
 
-Thank you gitbook for making my notes look incredibly clean.
+General notes on different topics.

@@ -33,6 +33,7 @@
 * [Docker / Containers](backend-infrastructure/docker.md)
 * [Caches](backend-infrastructure/caches/README.md)
   * [Redis](backend-infrastructure/redis.md)
+* [MVC (Model-View-Controller)](backend-infrastructure/mvc-model-view-controller.md)
 
 ## Technical Books
 
@@ -52,4 +53,4 @@
 
 ## Books
 
-* [Rising](books/rising.md)
+* [Rising by Elizabeth Rush](books/rising-by-elizabeth-rush.md)
