@@ -24,4 +24,4 @@ As with other software patterns, MVC expresses the "core of the solution" to a p
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
