@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Relational" %}
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 * MySQL
 * PostgreSQL
@@ -16,7 +16,7 @@ SQL (**S**tructured **Q**uery **L**anguage) is a programming language used to co
 {% endtab %}
 
 {% tab title="Document Store" %}
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 * Amazon DynamoDB
 * MongoDB

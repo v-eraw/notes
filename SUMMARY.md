@@ -2,15 +2,10 @@
 
 * [Welcome](README.md)
 
-## General Career Advice
-
-* [Software Engineering @Google](<README (1).md>)
-* [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
-
 ## Front-end / UI / UX
 
-* [React](front-end-ui-ux/react.md)
 * [Figma](front-end-ui-ux/figma.md)
+* [HTML/CSS](front-end-ui-ux/html-css.md)
 
 ## Backend / Infrastructure
 
@@ -35,6 +30,11 @@
   * [Redis](backend-infrastructure/redis.md)
 * [MVC (Model-View-Controller)](backend-infrastructure/mvc-model-view-controller.md)
 
+## General Career Advice
+
+* [Software Engineering @Google](<README (1).md>)
+* [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
+
 ## Technical Books
 
 * [Designing Data-Intensive Systems](technical-books/designing-data-intensive-systems.md)
@@ -50,7 +50,3 @@
 ## Courses
 
 * [iOS App Dev](courses/ios-app-dev.md)
-
-## Books
-
-* [Rising by Elizabeth Rush](books/rising-by-elizabeth-rush.md)
