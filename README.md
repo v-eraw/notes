@@ -1,3 +1,3 @@
 # Welcome
 
-General notes on different topics.
+Here are my notes on different topics I've encountered in my software engineering career so far.&#x20;

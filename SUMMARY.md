@@ -5,10 +5,13 @@
 ## Front-end / UI / UX
 
 * [Figma](front-end-ui-ux/figma.md)
-* [HTML/CSS](front-end-ui-ux/html-css.md)
+* [HTML](front-end-ui-ux/html.md)
+* [CSS](front-end-ui-ux/css.md)
 
 ## Backend / Infrastructure
 
+* [Terraform](backend-infrastructure/terraform.md)
+* [Content Delivery Network (CDN)](backend-infrastructure/content-delivery-network-cdn.md)
 * [Elasticsearch](backend-infrastructure/elasticsearch.md)
 * [npm](backend-infrastructure/npm/README.md)
   * [how to fix npm vulnerabilities](backend-infrastructure/npm/how-to-fix-npm-vulnerabilities.md)
