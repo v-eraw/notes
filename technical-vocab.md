@@ -1,5 +1,7 @@
 # Technical Vocab
 
+**API (application programming interface) -** allow different programs (sometimes written in different languages) to communicate with each other and share information or functionality.
+
 **paradigm** - widely accepted example, belief, concept, or pattern. in a sense, what already exists/is known/is used. emphasis on it being a concept.
 
 * Imperative: Programming with an explicit sequence of commands that update state.
