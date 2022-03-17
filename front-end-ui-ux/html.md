@@ -10,5 +10,8 @@ here's a complete list of all the different tags you can use:
 
 {% embed url="https://www.w3schools.com/TAgs/default.asp" %}
 
+And then you can further specify what you want from your HTML with attributes, like:
 
+\<a href="google.com">\</a>
 
+{% embed url="https://www.w3schools.com/TAgs/ref_attributes.asp" %}
