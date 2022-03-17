@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Technical Jargon Dictionary](technical-jargon-dictionary.md)
 * [Database Migrations](database-migrations.md)
 * [How to Write UML Diagrams](how-to-write-uml-diagrams.md)
 * [Linux](linux.md)
-* [ORMs](orms.md)
+* [Object-Relational Mapping (ORM)](object-relational-mapping-orm.md)
 * [Testing in Software](testing-in-software.md)
 
 ## Front-end / UI / UX

@@ -1,6 +1,6 @@
-# ORMs
+# Object-Relational Mapping (ORM)
 
-
+Have you ever wanted to query and manipulate data from a database using an aob
 
 
 
