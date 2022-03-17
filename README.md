@@ -2,4 +2,4 @@
 
 Here are my notes on different topics in software engineering I've encountered.
 
-I mostly google things (+ask some friends to teach me) and then try to distill it/write it out in my own words/regurgitate it so I can better understand and remember/recall the information.
+It's mostly from googling things (+asking some friends to teach me) and then I'll try to distill it/write it out in my own words/regurgitate it so I can better understand and remember/recall the information.
