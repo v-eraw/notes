@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Linux](linux.md)
+* [Testing in Software](testing-in-software.md)
 
 ## Front-end / UI / UX
 
