@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [DNS (The Domain Name System)](dns-the-domain-name-system.md)
 * [Automation Frameworks](automation-frameworks.md)
 * [Technical Vocab](technical-vocab.md)
 * [Kubernetes](kubernetes.md)
