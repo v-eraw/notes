@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Database Migrations](database-migrations.md)
+* [How to Write UML Diagrams](how-to-write-uml-diagrams.md)
 * [Linux](linux.md)
+* [ORMs](orms.md)
 * [Testing in Software](testing-in-software.md)
 
 ## Front-end / UI / UX
