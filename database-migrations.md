@@ -36,6 +36,8 @@ The expectation is that a database migration is consistent. In the context of mi
 * **Duplicate free.** Each piece of data is migrated once, and only once. No duplicate data is introduced into the target database.
 * **Ordered.** The data changes in the source database are applied to the target database in the same order as the changes occurred in the source database. This aspect is essential to ensure data consistency.
 
-\
+**Reference:**
+
+[https://cloud.google.com/architecture/database-migration-concepts-principles-part-1#:\~:text=Database%20migration%20is%20the%20process,restructured%2C%20in%20the%20target%20databases.](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1#:\~:text=Database%20migration%20is%20the%20process,restructured%2C%20in%20the%20target%20databases.)\
 
 

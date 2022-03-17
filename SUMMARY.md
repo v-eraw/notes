@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Automation Frameworks](automation-frameworks.md)
 * [Technical Vocab](technical-vocab.md)
+* [Kubernetes](kubernetes.md)
 * [Database Migrations](database-migrations.md)
 * [How to Write UML Diagrams](how-to-write-uml-diagrams.md)
 * [Linux](linux.md)
