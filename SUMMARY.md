@@ -43,8 +43,13 @@
   * [Redis](backend-infrastructure/redis.md)
 * [MVC (Model-View-Controller)](backend-infrastructure/mvc-model-view-controller.md)
 
+***
+
+* [how to be productive](how-to-be-productive.md)
+
 ## General Career Advice
 
+* [Salary Negotiation](general-career-advice/salary-negotiation.md)
 * [general how-to learn](general-career-advice/general-how-to-learn.md)
 * [Deepfaking Voices](general-career-advice/deepfaking-voices.md)
 * [Software Engineering @Google](<README (1).md>)
