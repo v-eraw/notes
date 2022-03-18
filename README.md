@@ -1,5 +1,9 @@
+---
+description: I hope these notes are helpful!
+---
+
 # Welcome
 
-Here are my notes on different topics in software engineering I've encountered.
+Here are my notes on different topics in software engineering, and in general how to manage a software engineering career.&#x20;
 
-It's mostly from googling things (+asking some friends to teach me) and then I'll try to distill it/write it out in my own words/regurgitate it so I can better understand and remember/recall the information.
+I collecting resources, but it's also important to actually remember and use what you learn-that's something I'm still definitely perfecting. These are mostly snippets from other writers but occasionally I try to write out ideas in my own words.
