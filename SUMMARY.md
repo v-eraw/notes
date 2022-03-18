@@ -45,6 +45,7 @@
 
 ## General Career Advice
 
+* [general how-to learn](general-career-advice/general-how-to-learn.md)
 * [Deepfaking Voices](general-career-advice/deepfaking-voices.md)
 * [Software Engineering @Google](<README (1).md>)
 * [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
