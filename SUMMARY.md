@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Terminal Shortcuts](terminal-shortcuts.md)
 * [Spring Boot](spring-boot.md)
 * [Networking](networking.md)
 * [Automation Frameworks](automation-frameworks.md)
