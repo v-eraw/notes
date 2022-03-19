@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [App Security](app-security/README.md)
+  * [Broken Access Control](app-security/broken-access-control.md)
 * [Terminal Shortcuts/Commands](terminal-shortcuts-commands.md)
 * [Spring Boot](spring-boot.md)
 * [Networking](networking.md)
-* [Automation Frameworks](automation-frameworks.md)
 * [Technical Vocab](technical-vocab.md)
 * [Kubernetes](kubernetes.md)
 * [Database Migrations](database-migrations.md)
