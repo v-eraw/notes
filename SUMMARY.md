@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [developer road maps](developer-road-maps.md)
+* [Domain Name System (DNS)](domain-name-system-dns.md)
+* [Developer Road Maps](developer-road-maps.md)
 * [App Security](app-security/README.md)
   * [Broken Access Control](app-security/broken-access-control.md)
 * [Terminal Shortcuts/Commands](terminal-shortcuts-commands.md)
