@@ -32,7 +32,7 @@ On the other side of the conversation, you need to learn to accept criticism as 
 
 How to do code reviews:
 
-
+Try not to be abrasive or too blunt; be considerate.
 
 A typical code review at Google goes through the following steps:
 

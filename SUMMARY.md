@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [developer road maps](developer-road-maps.md)
 * [App Security](app-security/README.md)
   * [Broken Access Control](app-security/broken-access-control.md)
 * [Terminal Shortcuts/Commands](terminal-shortcuts-commands.md)
@@ -11,14 +12,18 @@
 * [Database Migrations](database-migrations.md)
 * [How to Write UML Diagrams](how-to-write-uml-diagrams.md)
 * [Linux](linux.md)
-* [Object-Relational Mapping (ORM)](orms.md)
 * [Testing in Software](testing-in-software.md)
 
 ## Front-end / UI / UX
 
+* [Redux](front-end-ui-ux/redux.md)
+* [Notes on Design](front-end-ui-ux/notes-on-design.md)
+* [Frontend Frameworks](front-end-ui-ux/frontend-frameworks.md)
+* [Web Flow](front-end-ui-ux/web-flow.md)
 * [Figma](front-end-ui-ux/figma.md)
 * [HTML](front-end-ui-ux/html.md)
 * [CSS](front-end-ui-ux/css.md)
+* [React](front-end-ui-ux/react.md)
 
 ## Backend / Infrastructure
 
@@ -50,7 +55,6 @@
 
 * [Deepfaking Voices](general-career-advice/deepfaking-voices.md)
 * [Software Engineering @Google](<README (1).md>)
-* [New Programmer's Survival Manual](general-career-advice/new-programmers-survival-manual.md)
 
 ## Technical Books
 
