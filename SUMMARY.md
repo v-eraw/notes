@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Vim/Neovim](vim-neovim.md)
 * [Domain Name System (DNS)](domain-name-system-dns.md)
 * [Developer Road Maps](developer-road-maps.md)
 * [App Security](app-security/README.md)

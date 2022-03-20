@@ -42,3 +42,5 @@ The disadvantages of TCP/IP include the following:
 * is not easy to replace protocols in TCP/IP;
 * does not clearly separate the concepts of services, interfaces and protocols, so it is not suitable for describing new technologies in new networks; and
 * is especially vulnerable to a [synchronization attack](https://www.techtarget.com/searchsecurity/definition/SYN-flooding), which is a type of denial-of-service attack in which a bad actor uses TCP/IP.
+
+{% embed url="https://cs50.harvard.edu/x/2022/notes/8" %}
